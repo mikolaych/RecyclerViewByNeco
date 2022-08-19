@@ -6,7 +6,6 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import ru.mikolaych.recyclerviewbyneco.databinding.HomeItemBinding
 
-/*
 class HomeAdaptor: RecyclerView.Adapter<HomeAdaptor.HomeHolder>() {
 
     class HomeHolder(item:View):RecyclerView.ViewHolder(item) {
@@ -30,4 +29,4 @@ class HomeAdaptor: RecyclerView.Adapter<HomeAdaptor.HomeHolder>() {
     override fun getItemCount(): Int {
         TODO("Not yet implemented")
     }
-}*/
+}
